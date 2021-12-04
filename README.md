@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aviral Verma @thegeek13242
+- 👀 I’m interested in Machine Learning, Blockchain
+- 🌱 I’m currently learning Machine Learning
+- 📫 You can reach me at aviralv35@gmail.com
