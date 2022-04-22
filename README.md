@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aviral Verma @thegeek13242
+## Hi, I’m Aviral Verma @thegeek13242👋 
 - 👀 I’m interested in Machine Learning, Blockchain
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on innovative projects
